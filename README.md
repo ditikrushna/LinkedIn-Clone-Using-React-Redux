@@ -1,31 +1,29 @@
-## Fav-Book
+## LinkedIn-Clone-Using-React-Redux
 
-<!-- TABLE OF CONTENTS -->
+
 
 ## Table of Contents
 
 - [About the Project](#about-the-project)
+- [Functionalities](#functionalities)
 - [Contributors](#contributors)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 ### About the Project
 
-> The <b>LinkedIn-clone</b> web application presents a custom LinkedIn-clone.
-> <br>
-> The APP is created with the latest industry standards using React.js and Redux Toolkit
-> <br>
-> Firebase is used for the backend <br>
-> <br>
+The LinkedIn-clone web application presents a custom LinkedIn-clone.The APP is created with the latest industry standards using React.js and Redux Toolkit
+Firebase is used for the backend <br>
 
-## App functionality
+
+### Functionalities
 
 - Visitors can register using Full name, image url, email, and password.
 - Logged in users can can view other peoples posts and can add their own post in the feed.
 - Users can click on avatar on the navbar to sign out.
 
 <p align="center">
-    <img src="https://res.cloudinary.com/jstloyalty/image/upload/v1609620987/myPortfolio/hbc97p23p2cjs829lscw.png" alt="project-image" >
+    <img src="#" alt="project-image" >
 </p>
 
 ## Live Link (Firebase)
@@ -35,10 +33,10 @@
 ### Built With
 
 This project was built using these technologies.
-
-- React.js
-- Redux Toolkit
-- Firebase
+<img target="_blank" src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" width=170>
+- [React.js]()
+- [Redux Toolkit]()
+- [Firebase]
 - GitHub
 
 ## Getting Started
