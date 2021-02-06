@@ -6,9 +6,11 @@
 
 - [About the Project](#about-the-project)
 - [Functionalities](#functionalities)
+- [Technologies Used](#technologies-used)
 - [Contributors](#contributors)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
+
 
 ### About the Project
 
@@ -22,15 +24,13 @@ Firebase is used for the backend <br>
 - Logged in users can can view other peoples posts and can add their own post in the feed.
 - Users can click on avatar on the navbar to sign out.
 
-<p align="center">
-    <img src="#" alt="project-image" >
-</p>
 
-## Live Link (Firebase)
+
+## Live Link 
 
 [Project live link](https://linkedin-clone-e25d6.web.app/)
 
-### Built With
+### Technologies Used 
 
 1. [React](https://reactjs.org/) 
 2. [Redux](https://redux.js.org/)
