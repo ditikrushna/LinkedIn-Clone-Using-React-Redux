@@ -74,8 +74,8 @@ Run `npm start` to start the webpack server, you can now navigate to `http://loc
 
 ​**Ditikrushna Giri**
 
-- Github: [jstloyal](https://github.com/ditikrushna)
-- Linkedin: [Adetayo Sunkanmi](https://www.linkedin.com/in/ditikrushna)
+- Github: [Ditikrushna Giri](https://github.com/ditikrushna)
+- Linkedin: [Ditikrushna Giri](https://www.linkedin.com/in/ditikrushna)
 - E-mail: ditikrushna.nit.com
 
 <!-- ACKNOWLEDGEMENTS -->
