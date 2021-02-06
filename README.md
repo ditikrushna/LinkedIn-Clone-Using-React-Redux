@@ -36,7 +36,6 @@ This project was built using these technologies.
 <img target="_blank" src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" width=170>
 <img target="_blank" src="https://redux.js.org/img/redux-logo-landscape.png" width=170>
 <img target="_blank" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" width=170>
-<img target="_blank" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" width=170>
 <img target="_blank" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png" width=170>
 
 
