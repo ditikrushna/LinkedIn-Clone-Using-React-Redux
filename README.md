@@ -34,7 +34,7 @@ Firebase is used for the backend <br>
 
 This project was built using these technologies.
 <img target="_blank" src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" width=170>
-- [React.js]()
+<img target="_blank" src="https://redux.js.org/img/redux-logo-landscape.png" width=170>
 - [Redux Toolkit]()
 - [Firebase]
 - GitHub
