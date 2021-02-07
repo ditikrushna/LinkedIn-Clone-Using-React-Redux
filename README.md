@@ -9,7 +9,7 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Contributors](#contributors)
-- [Bug / Feature Request](#bug---feature-request)
+- [Bug / Feature Request](#bug--feature-request)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
