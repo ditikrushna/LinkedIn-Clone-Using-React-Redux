@@ -9,6 +9,7 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Contributors](#contributors)
+- [Bug / Feature Request](#bug---feature-request)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
@@ -78,7 +79,11 @@ Run `npm start` to start the webpack server, you can now navigate to `http://loc
 - Linkedin: [Ditikrushna Giri](https://www.linkedin.com/in/ditikrushna)
 - E-mail: ditikrushna.nit.com
 
-<!-- ACKNOWLEDGEMENTS -->
+### Bug / Feature Request
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/ditikrushna/LinkedIn-Clone-Using-React-Redux/issues) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ditikrushna/LinkedIn-Clone-Using-React-Redux/issues/new). Please include sample queries and their corresponding results.
+
 
 ## Acknowledgements
 
