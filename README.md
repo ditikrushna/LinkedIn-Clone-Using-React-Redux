@@ -28,7 +28,7 @@ Firebase is used for the backend <br>
 - Users can click on avatar on the navbar to sign out.
 
 ### Snapshot
-<img target="_blank" src="https://github.com/ditikrushna/LinkedIn-Clone-Using-React-Redux/blob/master/public/linkedin_Clone.JPG" width=170>
+<img target="_blank" src="https://github.com/ditikrushna/LinkedIn-Clone-Using-React-Redux/blob/master/public/linkedin_Clone.JPG">
 
 
 ## Live Link 
