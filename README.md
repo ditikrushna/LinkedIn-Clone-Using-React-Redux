@@ -36,9 +36,10 @@ Firebase is used for the backend <br>
 
 1. [React](https://reactjs.org/) 
 2. [Redux](https://redux.js.org/)
-3. [Firebase's Firestore](https://firebase.google.com/)
-4. [Firebase's Authentication](https://firebase.google.com/docs/auth)
-5. [Git](https://git-scm.com/) 
+3. [Material UI](https://material-ui.com/) 
+4. [Firebase's Firestore](https://firebase.google.com/)
+5. [Firebase's Authentication](https://firebase.google.com/docs/auth)
+6. [Git](https://git-scm.com/) 
 
 ### Installation 
 
