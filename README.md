@@ -45,11 +45,11 @@ Firebase is used for the backend <br>
 
 **Step 1**<br>
 Navigate through the local folder where you want to clone the repository and run<br>
-`git clone https://github.com/jstloyal/LinkedIn-clone`. It will clone the repo to your local folder.<br>
+`git clone https://github.com/ditikrushna/LinkedIn-Clone-Using-React-Redux.git`. It will clone the repo to your local folder.<br>
 **Step 2**<br>
-Run `cd LinkedIn-Clone `<br>
+Run `cd LinkedIn-Clone-Using-React-Redux`<br>
 **Step 3**<br>
-Run `npm install` to install the yarn packages from the `package.json` file.<br>
+Run `npm install` to install the npm packages from the `package.json` file.<br>
 **Step 4**<br>
 Run `npm start` to start the webpack server, you can now navigate to `http://localhost:3000` to view the app. The server refreshes the app every time you make a change to a file used by it.<br>
 
