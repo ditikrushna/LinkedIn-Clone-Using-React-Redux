@@ -6,6 +6,7 @@
 
 - [About the Project](#about-the-project)
 - [Functionalities](#functionalities)
+- [Snapshot](#snapshot)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Contributors](#contributors)
@@ -26,6 +27,8 @@ Firebase is used for the backend <br>
 - Logged in users can can view other peoples posts and can add their own post in the feed.
 - Users can click on avatar on the navbar to sign out.
 
+### Snapshot
+<img target="_blank" src="https://github.com/ditikrushna/LinkedIn-Clone-Using-React-Redux/blob/master/public/linkedin_Clone.JPG" width=170>
 
 
 ## Live Link 
